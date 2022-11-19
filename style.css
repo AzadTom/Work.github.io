@@ -514,7 +514,12 @@ section.blog .blog-container .blog1 span{
     padding: 1rem;
 
 }
+section.blog .blog-container .blog1 h1, p {
 
+
+    padding: 0;
+    
+}
 
 
 section.blog .blog-container .blog1 img{
